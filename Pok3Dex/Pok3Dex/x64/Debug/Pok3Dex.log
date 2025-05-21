@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Pok3Dex\Pok3Dex\main.cpp(511,27): warning C4018: '<': signed/unsigned mismatch
+D:\Pok3Dex\Pok3Dex\main.cpp(575,44): warning C4267: 'argument': conversion from 'size_t' to 'ALsizei', possible loss of data
+D:\Pok3Dex\Pok3Dex\main.cpp(901,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Pok3Dex.vcxproj -> D:\Pok3Dex\Pok3Dex\x64\Debug\Pok3Dex.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

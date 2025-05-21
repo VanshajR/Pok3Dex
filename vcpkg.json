@@ -1,0 +1,16 @@
+{
+    "name": "pok3dex",
+    "version": "0.1.0",
+    "dependencies": [
+      "glew",
+      "freeglut",
+      "openal-soft",
+      "freetype",
+      "glm",
+      "stb",
+      "tinygltf",
+      "tinyobjloader",
+      "assimp"
+    ]
+  }
+  

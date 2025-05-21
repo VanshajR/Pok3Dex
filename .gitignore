@@ -1,0 +1,44 @@
+/.vscode
+/struct.txt
+/vcpkg_installed
+/Pok3Dex/assets/models/
+/Pok3Dex/.py
+/Pok3Dex/x64/
+/Pok3Dex/struct.txt
+/Pok3Dex/.vs/
+.gltf
+.bin
+Pok3Dex/build
+
+Pok3Dex/convert_gltf_in_blender.py
+Pok3Dex/fixfolders.py
+# Build directories
+build/
+bin/
+out/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Compiled files
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+!CMakeLists.txt
+
+# OS files
+.DS_Store
+Thumbs.db
