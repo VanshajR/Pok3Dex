@@ -35,7 +35,7 @@ A 3D Pokémon guessing game built with OpenGL, where players try to identify Pok
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Pok3Dex.git
+git clone https://github.com/VanshajR/Pok3Dex.git
 cd Pok3Dex
 ```
 
