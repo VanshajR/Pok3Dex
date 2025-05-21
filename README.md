@@ -2,7 +2,9 @@
 
 A 3D Pokémon guessing game built with OpenGL, where players try to identify Pokémon from their 3D models.
 
-![Pok3Dex Screenshot](assets/textures/start_bg.png)
+![Pok3Dex Screenshot](https://res.cloudinary.com/dnciaoigz/image/upload/v1747853097/start_bg_v7g9ay.bmp)
+
+[Download The Game](https://mega.nz/file/wMoUnDiI#GiCdqfaongwvNr6NqOVW6QYnfEhxhxXv7JLCEM5hw5k)
 
 ## Features
 
