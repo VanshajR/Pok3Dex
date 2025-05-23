@@ -6,6 +6,8 @@ A 3D Pokémon guessing game built with OpenGL, where players try to identify Pok
 
 [Download The Game](https://mega.nz/file/wMoUnDiI#GiCdqfaongwvNr6NqOVW6QYnfEhxhxXv7JLCEM5hw5k)
 
+[Download the assets folder](https://mega.nz/file/FMxmEDqI#hf6SdaYyv8EvMqqvOXhUDP38RvWe3mMwGh90g3iCAEs)
+
 ## Features
 
 - 3D Pokémon model rendering with real-time rotation
